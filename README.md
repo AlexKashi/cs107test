@@ -1,3 +1,3 @@
 [![Build Status](https://app.travis-ci.com/AlexKashi/cs107test.svg?branch=main)](https://app.travis-ci.com/AlexKashi/cs107test.svg?branch=main)
 
-[![Coverage Status](https://codecov.io/gh/dsondak/cs207testing/branch/master/graph/badge.svg)](https://codecov.io/gh/dsondak/cs207testing)
+[![codecov](https://codecov.io/gh/AlexKashi/cs107test/branch/master/graph/badge.svg?token=HRH2VH47UE)](https://codecov.io/gh/AlexKashi/cs107test)
